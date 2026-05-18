@@ -1,0 +1,33 @@
+# Steam Achievements Calculator
+
+A basic script for analyzing Steam achievement data and generating summary statistics.
+
+The script processes achievement information exported from Steam or collected through the Steam Web API, then outputs:
+
+- Console summaries
+- Completion statistics
+- Per-game achievement breakdowns
+- A CSV export for further analysis in Excel, LibreOffice, pandas, Power BI, etc.
+
+---
+
+## Features
+
+- Calculate overall achievement completion percentage
+- Summarize completed vs incomplete achievements
+- Generate per-game statistics
+- Export structured CSV data
+- Simple and lightweight
+- Suitable for automation or batch processing
+
+---
+
+## Example Output
+
+### Console Summary
+
+```text
+Games analyzed: 42
+Total achievements: 3184
+Unlocked achievements: 2140
+Overall completion: 67.21%
