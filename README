@@ -13,9 +13,7 @@ The script processes achievement information exported from Steam or collected th
 
 ## Features
 
-- Calculate overall achievement completion percentage
 - Summarize completed vs incomplete achievements
-- Generate per-game statistics
 - Export structured CSV data
 - Simple and lightweight
 - Suitable for automation or batch processing
@@ -27,7 +25,7 @@ The script processes achievement information exported from Steam or collected th
 ### Console Summary
 
 ```text
-Games analyzed: 42
-Total achievements: 3184
-Unlocked achievements: 2140
-Overall completion: 67.21%
+Total games in library
+Games with achievements
+Total achievements (all games)
+Most achievements in one game
